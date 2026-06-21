@@ -1,0 +1,14 @@
+NOTE: The questions which do NOT have a upper-case letter followed by 5 numbers (i.e X12345) dont belong the question sets of jutge.org, but rather sourced from external sites
+
+
+Mixed bag of questions solved to cover the following concepts: 
+
+
+1. C++ basic syntax (why #include; why namespace std; use of semicolon; why int main())
+2. Data types (int,bool,void,float,double,char,long long) , Variables and their initialization
+3. Use of basic header files
+4. Arithmetic/Logic/Increment/Decrement/Assignment  operators (+,-,/,*,<,>,==,++,--)
+5. Conditional statements (if, else if , else)
+6. Use of ASCII
+7. Casting (Changing data type of variable)
+8. 
